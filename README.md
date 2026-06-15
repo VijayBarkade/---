@@ -1,4 +1,4 @@
-# LED Matrix Voice Lab
+# 𝗩𝗼𝗶𝗰𝗲-𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗱 𝗟𝗘𝗗 𝗠𝗮𝘁𝗿𝗶𝘅 𝗗𝗶𝘀𝗽𝗹𝗮𝘆 𝘂𝘀𝗶𝗻𝗴 𝗔𝗿𝗱𝘂𝗶𝗻𝗼 𝗨𝗻𝗼 𝗤
 
 App Lab project for Arduino Uno Q that listens to your words in the browser, previews them on the Arduino Uno Q built-in 8 x 13 LED matrix, and sends the same words to the STM32 MCU through Bridge.
 
