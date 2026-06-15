@@ -1,0 +1,5 @@
+name: led-matrix-voice-lab
+description: Voice and text LED matrix display app for Arduino Uno Q.
+ports:
+  - 5002
+icon: "💡"
